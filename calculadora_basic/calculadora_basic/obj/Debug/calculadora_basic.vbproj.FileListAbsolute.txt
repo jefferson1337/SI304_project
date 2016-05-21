@@ -1,0 +1,11 @@
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\bin\Debug\calculadora_basic.exe.config
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.vbprojResolveAssemblyReference.cache
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.frmCalculadora.resources
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.Resources.resources
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.vbproj.GenerateResource.Cache
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.xml
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\bin\Debug\calculadora_basic.exe
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\bin\Debug\calculadora_basic.pdb
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\bin\Debug\calculadora_basic.xml
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.exe
+C:\Users\jefferson\Desktop\engenharia de software ll\visual studio\calculadora_basic\calculadora_basic\obj\Debug\calculadora_basic.pdb
